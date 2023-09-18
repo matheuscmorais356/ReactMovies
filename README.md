@@ -7,7 +7,7 @@ O projeto foi desenvolvido durante o curso [React do zero a maestria](https://ww
 
 ### 🔗 Links
 
-- URL do site no ar: [Clique aqui!]()
+- URL do site no ar: [Clique aqui!](https://react-movies-ebon.vercel.app/)
 
 ### 🛠 Tecnologias
 
