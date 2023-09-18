@@ -1,0 +1,39 @@
+:root {
+    --Light-yellow: rgb(247, 212, 85);
+    --Golden: rgb(182, 145, 12);
+
+    --Dark-gray: rgb(18, 18, 18);
+
+    --Deep-black: rgb(17, 17, 17);
+
+    --White: rgb(255, 255, 255);
+    --Black: rgb(0, 0, 0);
+}
+
+* {
+    font-family: Helvetica;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+
+}
+
+body {
+    background: var(--Black);
+    color: var(--White);
+}
+
+a {
+    text-decoration: none;
+    color: var(--Light-yellow);
+    transition: 0.5s;
+}
+
+a:hover {
+    color: var(--Golden);
+}
+
+
