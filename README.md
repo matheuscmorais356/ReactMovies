@@ -17,8 +17,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - JavaScript
 - HTML
 - CSS
-- Vite
-- React router
 - TMDB API
 
 ### Autor
